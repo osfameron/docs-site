@@ -39,6 +39,7 @@ pipeline {
     }
     stage('Generate Config') {
       steps {
+        sh 'echo Temporarily using checked in config, blame Hakim'
         // sh '(curl -sL https://docs.couchbase.com/site-manifest.json | npx -p hbs-cli hbs -H "$PWD/docsearch/hbs-helpers/*.js" -i -s $CONFIG.hbs > $CONFIG)'
       }
     }
