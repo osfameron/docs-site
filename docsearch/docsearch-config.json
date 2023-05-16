@@ -1,0 +1,1119 @@
+{
+  "index_name": "prod_docs_couchbase",
+  "start_urls": [
+    {
+      "url": "https://docs.couchbase.com/home/contribute/",
+      "extra_attributes": {
+        "component_title": "Home",
+        "component_version": ["home", "home"],
+        "component": "home",
+        "version_rank": 1
+      },
+      "selectors_key": "contribute",
+      "page_rank": -1
+    },
+    {
+      "url": "https://docs.couchbase.com/c-sdk/current/",
+      "extra_attributes": {
+        "component_title": "C SDK",
+        "component_version": ["c-sdk@3.3", "c-sdk"],
+        "component": "c-sdk",
+        "version": "3.3",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/c-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "C SDK",
+        "component_version": ["c-sdk@3.2"],
+        "component": "c-sdk",
+        "version": "3.2",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/c-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "C SDK",
+        "component_version": ["c-sdk@3.1"],
+        "component": "c-sdk",
+        "version": "3.1",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/c-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "C SDK",
+        "component_version": ["c-sdk@3.0"],
+        "component": "c-sdk",
+        "version": "3.0",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/cbmultimanager/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Cluster Monitor",
+        "component_version": ["cbmultimanager@0.2", "cbmultimanager"],
+        "component": "cbmultimanager",
+        "version": "0.2",
+        "display_version": "0.2 true",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/cloud/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Capella",
+        "component_version": ["cloud@", "cloud"],
+        "component": "cloud",
+        "version": "",
+        "display_version": "Provisioned",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/cmos/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Monitoring and Observability Stack",
+        "component_version": ["cmos@0.2", "cmos"],
+        "component": "cmos",
+        "version": "0.2",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@3.1", "couchbase-lite"],
+        "component": "couchbase-lite",
+        "version": "3.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/3.0/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@3.0"],
+        "component": "couchbase-lite",
+        "version": "3.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.8/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.8"],
+        "component": "couchbase-lite",
+        "version": "2.8",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.7/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.7"],
+        "component": "couchbase-lite",
+        "version": "2.7",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.6/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.6"],
+        "component": "couchbase-lite",
+        "version": "2.6",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.5/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.5"],
+        "component": "couchbase-lite",
+        "version": "2.5",
+        "version_rank": 6
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.1/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.1"],
+        "component": "couchbase-lite",
+        "version": "2.1",
+        "version_rank": 7
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/couchbase-lite/2.0/",
+      "extra_attributes": {
+        "component_title": "Couchbase Lite",
+        "component_version": ["couchbase-lite@2.0"],
+        "component": "couchbase-lite",
+        "version": "2.0",
+        "version_rank": 8
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/cxx-txns/current/",
+      "extra_attributes": {
+        "component_title": "C++ Transactions",
+        "component_version": ["cxx-txns@1.0", "cxx-txns"],
+        "component": "cxx-txns",
+        "version": "1.0",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/dotnet-sdk/current/",
+      "extra_attributes": {
+        "component_title": ".NET SDK",
+        "component_version": ["dotnet-sdk@3.4", "dotnet-sdk"],
+        "component": "dotnet-sdk",
+        "version": "3.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/dotnet-sdk/3.3/",
+      "extra_attributes": {
+        "component_title": ".NET SDK",
+        "component_version": ["dotnet-sdk@3.3"],
+        "component": "dotnet-sdk",
+        "version": "3.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/dotnet-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": ".NET SDK",
+        "component_version": ["dotnet-sdk@3.2"],
+        "component": "dotnet-sdk",
+        "version": "3.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/dotnet-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": ".NET SDK",
+        "component_version": ["dotnet-sdk@3.1"],
+        "component": "dotnet-sdk",
+        "version": "3.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/dotnet-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": ".NET SDK",
+        "component_version": ["dotnet-sdk@3.0"],
+        "component": "dotnet-sdk",
+        "version": "3.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/elasticsearch-connector/current/",
+      "extra_attributes": {
+        "component_title": "Elasticsearch Connector",
+        "component_version": ["elasticsearch-connector@4.4", "elasticsearch-connector"],
+        "component": "elasticsearch-connector",
+        "version": "4.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/elasticsearch-connector/4.3/",
+      "extra_attributes": {
+        "component_title": "Elasticsearch Connector",
+        "component_version": ["elasticsearch-connector@4.3"],
+        "component": "elasticsearch-connector",
+        "version": "4.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/elasticsearch-connector/4.2/",
+      "extra_attributes": {
+        "component_title": "Elasticsearch Connector",
+        "component_version": ["elasticsearch-connector@4.2"],
+        "component": "elasticsearch-connector",
+        "version": "4.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/elasticsearch-connector/4.1/",
+      "extra_attributes": {
+        "component_title": "Elasticsearch Connector",
+        "component_version": ["elasticsearch-connector@4.1"],
+        "component": "elasticsearch-connector",
+        "version": "4.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/elasticsearch-connector/4.0/",
+      "extra_attributes": {
+        "component_title": "Elasticsearch Connector",
+        "component_version": ["elasticsearch-connector@4.0"],
+        "component": "elasticsearch-connector",
+        "version": "4.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.6", "go-sdk"],
+        "component": "go-sdk",
+        "version": "2.6",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.5/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.5"],
+        "component": "go-sdk",
+        "version": "2.5",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.4/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.4"],
+        "component": "go-sdk",
+        "version": "2.4",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.3/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.3"],
+        "component": "go-sdk",
+        "version": "2.3",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.2/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.2"],
+        "component": "go-sdk",
+        "version": "2.2",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.1/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.1"],
+        "component": "go-sdk",
+        "version": "2.1",
+        "version_rank": 6
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/go-sdk/2.0/",
+      "extra_attributes": {
+        "component_title": "Go SDK",
+        "component_version": ["go-sdk@2.0"],
+        "component": "go-sdk",
+        "version": "2.0",
+        "version_rank": 7
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/java-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Java SDK",
+        "component_version": ["java-sdk@3.4", "java-sdk"],
+        "component": "java-sdk",
+        "version": "3.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/java-sdk/3.3/",
+      "extra_attributes": {
+        "component_title": "Java SDK",
+        "component_version": ["java-sdk@3.3"],
+        "component": "java-sdk",
+        "version": "3.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/java-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "Java SDK",
+        "component_version": ["java-sdk@3.2"],
+        "component": "java-sdk",
+        "version": "3.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/java-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "Java SDK",
+        "component_version": ["java-sdk@3.1"],
+        "component": "java-sdk",
+        "version": "3.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/java-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "Java SDK",
+        "component_version": ["java-sdk@3.0"],
+        "component": "java-sdk",
+        "version": "3.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/kafka-connector/current/",
+      "extra_attributes": {
+        "component_title": "Kafka Connector",
+        "component_version": ["kafka-connector@4.1", "kafka-connector"],
+        "component": "kafka-connector",
+        "version": "4.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/kafka-connector/4.0/",
+      "extra_attributes": {
+        "component_title": "Kafka Connector",
+        "component_version": ["kafka-connector@4.0"],
+        "component": "kafka-connector",
+        "version": "4.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/kafka-connector/3.4/",
+      "extra_attributes": {
+        "component_title": "Kafka Connector",
+        "component_version": ["kafka-connector@3.4"],
+        "component": "kafka-connector",
+        "version": "3.4",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/kotlin-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Kotlin SDK",
+        "component_version": ["kotlin-sdk@1.1", "kotlin-sdk"],
+        "component": "kotlin-sdk",
+        "version": "1.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/kotlin-sdk/1.0/",
+      "extra_attributes": {
+        "component_title": "Kotlin SDK",
+        "component_version": ["kotlin-sdk@1.0"],
+        "component": "kotlin-sdk",
+        "version": "1.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@4.2", "nodejs-sdk"],
+        "component": "nodejs-sdk",
+        "version": "4.2",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/4.1/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@4.1"],
+        "component": "nodejs-sdk",
+        "version": "4.1",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/4.0/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@4.0"],
+        "component": "nodejs-sdk",
+        "version": "4.0",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@3.2"],
+        "component": "nodejs-sdk",
+        "version": "3.2",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@3.1"],
+        "component": "nodejs-sdk",
+        "version": "3.1",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/nodejs-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "Node.js SDK",
+        "component_version": ["nodejs-sdk@3.0"],
+        "component": "nodejs-sdk",
+        "version": "3.0",
+        "version_rank": 6
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/current/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@2.4", "operator"],
+        "component": "operator",
+        "version": "2.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/2.3/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@2.3"],
+        "component": "operator",
+        "version": "2.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/2.2/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@2.2"],
+        "component": "operator",
+        "version": "2.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/2.1/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@2.1"],
+        "component": "operator",
+        "version": "2.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/2.0/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@2.0"],
+        "component": "operator",
+        "version": "2.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/1.2/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@1.2"],
+        "component": "operator",
+        "version": "1.2",
+        "version_rank": 6
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/1.1/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@1.1"],
+        "component": "operator",
+        "version": "1.1",
+        "version_rank": 7
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/operator/1.0/",
+      "extra_attributes": {
+        "component_title": "Autonomous Operator",
+        "component_version": ["operator@1.0"],
+        "component": "operator",
+        "version": "1.0",
+        "version_rank": 8
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/php-sdk/current/",
+      "extra_attributes": {
+        "component_title": "PHP SDK",
+        "component_version": ["php-sdk@4.1", "php-sdk"],
+        "component": "php-sdk",
+        "version": "4.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/php-sdk/4.0/",
+      "extra_attributes": {
+        "component_title": "PHP SDK",
+        "component_version": ["php-sdk@4.0"],
+        "component": "php-sdk",
+        "version": "4.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/php-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "PHP SDK",
+        "component_version": ["php-sdk@3.2"],
+        "component": "php-sdk",
+        "version": "3.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/php-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "PHP SDK",
+        "component_version": ["php-sdk@3.1"],
+        "component": "php-sdk",
+        "version": "3.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/php-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "PHP SDK",
+        "component_version": ["php-sdk@3.0"],
+        "component": "php-sdk",
+        "version": "3.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/python-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Python SDK",
+        "component_version": ["python-sdk@4.1", "python-sdk"],
+        "component": "python-sdk",
+        "version": "4.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/python-sdk/4.0/",
+      "extra_attributes": {
+        "component_title": "Python SDK",
+        "component_version": ["python-sdk@4.0"],
+        "component": "python-sdk",
+        "version": "4.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/python-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "Python SDK",
+        "component_version": ["python-sdk@3.2"],
+        "component": "python-sdk",
+        "version": "3.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/python-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "Python SDK",
+        "component_version": ["python-sdk@3.1"],
+        "component": "python-sdk",
+        "version": "3.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/python-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "Python SDK",
+        "component_version": ["python-sdk@3.0"],
+        "component": "python-sdk",
+        "version": "3.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/ruby-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Ruby SDK",
+        "component_version": ["ruby-sdk@3.4", "ruby-sdk"],
+        "component": "ruby-sdk",
+        "version": "3.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/ruby-sdk/3.3/",
+      "extra_attributes": {
+        "component_title": "Ruby SDK",
+        "component_version": ["ruby-sdk@3.3"],
+        "component": "ruby-sdk",
+        "version": "3.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/ruby-sdk/3.2/",
+      "extra_attributes": {
+        "component_title": "Ruby SDK",
+        "component_version": ["ruby-sdk@3.2"],
+        "component": "ruby-sdk",
+        "version": "3.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/ruby-sdk/3.1/",
+      "extra_attributes": {
+        "component_title": "Ruby SDK",
+        "component_version": ["ruby-sdk@3.1"],
+        "component": "ruby-sdk",
+        "version": "3.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/ruby-sdk/3.0/",
+      "extra_attributes": {
+        "component_title": "Ruby SDK",
+        "component_version": ["ruby-sdk@3.0"],
+        "component": "ruby-sdk",
+        "version": "3.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/scala-sdk/current/",
+      "extra_attributes": {
+        "component_title": "Scala SDK",
+        "component_version": ["scala-sdk@1.4", "scala-sdk"],
+        "component": "scala-sdk",
+        "version": "1.4",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/scala-sdk/1.3/",
+      "extra_attributes": {
+        "component_title": "Scala SDK",
+        "component_version": ["scala-sdk@1.3"],
+        "component": "scala-sdk",
+        "version": "1.3",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/scala-sdk/1.2/",
+      "extra_attributes": {
+        "component_title": "Scala SDK",
+        "component_version": ["scala-sdk@1.2"],
+        "component": "scala-sdk",
+        "version": "1.2",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/scala-sdk/1.1/",
+      "extra_attributes": {
+        "component_title": "Scala SDK",
+        "component_version": ["scala-sdk@1.1"],
+        "component": "scala-sdk",
+        "version": "1.1",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/server/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Server",
+        "component_version": ["server@7.1", "server"],
+        "component": "server",
+        "version": "7.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/server/7.0/",
+      "extra_attributes": {
+        "component_title": "Couchbase Server",
+        "component_version": ["server@7.0"],
+        "component": "server",
+        "version": "7.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/server/6.6/",
+      "extra_attributes": {
+        "component_title": "Couchbase Server",
+        "component_version": ["server@6.6"],
+        "component": "server",
+        "version": "6.6",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/server/6.5/",
+      "extra_attributes": {
+        "component_title": "Couchbase Server",
+        "component_version": ["server@6.5"],
+        "component": "server",
+        "version": "6.5",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/server/6.0/",
+      "extra_attributes": {
+        "component_title": "Couchbase Server",
+        "component_version": ["server@6.0"],
+        "component": "server",
+        "version": "6.0",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/service-broker/current/",
+      "extra_attributes": {
+        "component_title": "Service Broker",
+        "component_version": ["service-broker@1.1", "service-broker"],
+        "component": "service-broker",
+        "version": "1.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/service-broker/1.0/",
+      "extra_attributes": {
+        "component_title": "Service Broker",
+        "component_version": ["service-broker@1.0"],
+        "component": "service-broker",
+        "version": "1.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/shared-mobile/3.1/",
+      "extra_attributes": {
+        "component_title": "Couchbase Mobile",
+        "component_version": ["shared-mobile@3.1"],
+        "component": "shared-mobile",
+        "version": "3.1",
+        "display_version": "3.1 BETA",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/shared-mobile/current/",
+      "extra_attributes": {
+        "component_title": "Couchbase Mobile",
+        "component_version": ["shared-mobile@2.8", "shared-mobile"],
+        "component": "shared-mobile",
+        "version": "2.8",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/spark-connector/current/",
+      "extra_attributes": {
+        "component_title": "Spark Connector",
+        "component_version": ["spark-connector@3.3", "spark-connector"],
+        "component": "spark-connector",
+        "version": "3.3",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/spark-connector/3.2/",
+      "extra_attributes": {
+        "component_title": "Spark Connector",
+        "component_version": ["spark-connector@3.2"],
+        "component": "spark-connector",
+        "version": "3.2",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/spark-connector/3.1/",
+      "extra_attributes": {
+        "component_title": "Spark Connector",
+        "component_version": ["spark-connector@3.1"],
+        "component": "spark-connector",
+        "version": "3.1",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/spark-connector/3.0/",
+      "extra_attributes": {
+        "component_title": "Spark Connector",
+        "component_version": ["spark-connector@3.0"],
+        "component": "spark-connector",
+        "version": "3.0",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/spark-connector/2.4/",
+      "extra_attributes": {
+        "component_title": "Spark Connector",
+        "component_version": ["spark-connector@2.4"],
+        "component": "spark-connector",
+        "version": "2.4",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/current/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@3.1", "sync-gateway"],
+        "component": "sync-gateway",
+        "version": "3.1",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/3.0/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@3.0"],
+        "component": "sync-gateway",
+        "version": "3.0",
+        "version_rank": 2
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.8/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.8"],
+        "component": "sync-gateway",
+        "version": "2.8",
+        "version_rank": 3
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.7/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.7"],
+        "component": "sync-gateway",
+        "version": "2.7",
+        "version_rank": 4
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.6/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.6"],
+        "component": "sync-gateway",
+        "version": "2.6",
+        "version_rank": 5
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.5/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.5"],
+        "component": "sync-gateway",
+        "version": "2.5",
+        "version_rank": 6
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.1/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.1"],
+        "component": "sync-gateway",
+        "version": "2.1",
+        "version_rank": 7
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/2.0/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@2.0"],
+        "component": "sync-gateway",
+        "version": "2.0",
+        "version_rank": 8
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sync-gateway/1.5/",
+      "extra_attributes": {
+        "component_title": "Sync Gateway",
+        "component_version": ["sync-gateway@1.5"],
+        "component": "sync-gateway",
+        "version": "1.5",
+        "version_rank": 9
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/tableau-connector/current/",
+      "extra_attributes": {
+        "component_title": "Tableau Connector",
+        "component_version": ["tableau-connector@1.0", "tableau-connector"],
+        "component": "tableau-connector",
+        "version": "1.0",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/userprofile-couchbase-mobile/current/",
+      "extra_attributes": {
+        "component_title": "User Profile Tutorial",
+        "component_version": ["userprofile-couchbase-mobile@backgroundfetch", "userprofile-couchbase-mobile"],
+        "component": "userprofile-couchbase-mobile",
+        "version": "backgroundfetch",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/cloud-native-database/",
+      "extra_attributes": {
+        "component_title": "Cloud-Native Database",
+        "component_version": ["cloud-native-database", "cloud-native-database"],
+        "component": "cloud-native-database",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/sdk-extensions/",
+      "extra_attributes": {
+        "component_title": "SDK Extension Libraries",
+        "component_version": ["sdk-extensions", "sdk-extensions"],
+        "component": "sdk-extensions",
+        "version_rank": 1
+      }
+    },
+    {
+      "url": "https://docs.couchbase.com/talend-connector/",
+      "extra_attributes": {
+        "component_title": "Talend Connector",
+        "component_version": ["talend-connector", "talend-connector"],
+        "component": "talend-connector",
+        "version_rank": 1
+      }
+    }
+  ],
+  "sitemap_urls": [
+    "https://docs.couchbase.com/sitemap.xml"
+  ],
+  "scrape_start_urls": true,
+  "stop_urls": [],
+  "selectors": {
+    "default": {
+      "lvl0": {
+        "global": true,
+        "selector": ".component-frame h4.title > span, .component-frame .component"
+      },
+      "lvl1": ".doc > .page-heading-title > h1.page, .landing-page-doc > h1:first-child.sect0",
+      "lvl2": ".doc .sect1 > h2:first-child",
+      "lvl3": ".doc .sect2 > h3:first-child",
+      "lvl4": ".doc .sect3 > h4:first-child",
+      "text": ".doc p, .doc dt"
+    },
+    "contribute": {
+      "lvl0": {
+        "default_value": "Contributing Guide",
+        "global": true,
+        "selector": ".navbar .component"
+      },
+      "lvl1": ".doc > .page-heading-title > h1.page",
+      "lvl2": ".doc .sect1 > h2:first-child",
+      "lvl3": ".doc .sect2 > h3:first-child",
+      "lvl4": ".doc .sect3 > h4:first-child",
+      "text": ".doc p, .doc dt"
+    }
+  },
+  "selectors_exclude": [
+    ".doc .admonitionblock",
+    ".doc table.tableblock"
+  ],
+  "min_indexed_level": 1,
+  "custom_settings": {
+    "advancedSyntax": true,
+    "attributesForFaceting": [
+      "component",
+      "component_version"
+    ],
+    "attributesToRetrieve": [
+      "anchor",
+      "component_title",
+      "component_version",
+      "display_version",
+      "content",
+      "hierarchy",
+      "url"
+    ],
+    "attributesToSnippet": [
+      "content:25"
+    ],
+    "customRanking": [
+      "desc(weight.page_rank)",
+      "asc(version_rank)",
+      "desc(weight.level)",
+      "asc(weight.position)"
+    ],
+    "hitsPerPage": 20,
+    "paginationLimitedTo": 500
+  }
+}
+
