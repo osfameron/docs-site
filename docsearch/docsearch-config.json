@@ -69,7 +69,6 @@
         "component_title": "Couchbase Capella",
         "component_version": ["cloud@", "cloud"],
         "component": "cloud",
-        "version": "",
         "display_version": "Provisioned",
         "version_rank": 1
       }
