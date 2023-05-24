@@ -67,7 +67,7 @@
       "url": "https://docs.couchbase.com/cloud/current/",
       "extra_attributes": {
         "component_title": "Couchbase Capella",
-        "component_version": ["cloud@", "cloud"],
+        "component_version": ["cloud"],
         "component": "cloud",
         "display_version": "Provisioned",
         "version_rank": 1
